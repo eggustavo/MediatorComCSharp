@@ -1,0 +1,14 @@
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\bin\Debug\net5.0\EGG.Domain.deps.json
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\bin\Debug\net5.0\EGG.Domain.dll
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\bin\Debug\net5.0\ref\EGG.Domain.dll
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\bin\Debug\net5.0\EGG.Domain.pdb
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\obj\Debug\net5.0\EGG.Domain.Resources.MSG.resources
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\obj\Debug\net5.0\EGG.Domain.csproj.GenerateResource.cache
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\obj\Debug\net5.0\EGG.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\obj\Debug\net5.0\EGG.Domain.AssemblyInfoInputs.cache
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\obj\Debug\net5.0\EGG.Domain.AssemblyInfo.cs
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\obj\Debug\net5.0\EGG.Domain.csproj.CoreCompileInputs.cache
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\obj\Debug\net5.0\EGG.Domain.dll
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\obj\Debug\net5.0\ref\EGG.Domain.dll
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\obj\Debug\net5.0\EGG.Domain.pdb
+C:\Eduardo\Projetos\Comunidade .NET\Mediator\EGG.Domain\obj\Debug\net5.0\EGG.Domain.csproj.AssemblyReference.cache

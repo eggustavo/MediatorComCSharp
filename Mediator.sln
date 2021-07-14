@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - API", "01 - API", "{F556FE29-8AAB-48CC-8B80-3B0B8744A208}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Domain", "02 - Domain", "{8903D868-FDEF-4B79-B4B2-8D9756AFBE24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Infra", "03 - Infra", "{9CAAF6BC-FD4D-467F-9062-D418C539727C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.01 - Data", "03.01 - Data", "{4B14D0A1-6B79-4643-9101-5EAF8E24C122}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EGG.Api", "EGG.Api\EGG.Api.csproj", "{221ECEAD-5B74-4787-B3B8-F839A0480419}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EGG.Domain", "EGG.Domain\EGG.Domain.csproj", "{56BDBDD0-5DF9-452C-B6C0-E8C26BD74740}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EGG.Infra.Data", "EGG.Infra.Data\EGG.Infra.Data.csproj", "{93D9E489-3941-4BE7-BB58-FC608B14F8CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{221ECEAD-5B74-4787-B3B8-F839A0480419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221ECEAD-5B74-4787-B3B8-F839A0480419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221ECEAD-5B74-4787-B3B8-F839A0480419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221ECEAD-5B74-4787-B3B8-F839A0480419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BDBDD0-5DF9-452C-B6C0-E8C26BD74740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BDBDD0-5DF9-452C-B6C0-E8C26BD74740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BDBDD0-5DF9-452C-B6C0-E8C26BD74740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BDBDD0-5DF9-452C-B6C0-E8C26BD74740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D9E489-3941-4BE7-BB58-FC608B14F8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D9E489-3941-4BE7-BB58-FC608B14F8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D9E489-3941-4BE7-BB58-FC608B14F8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D9E489-3941-4BE7-BB58-FC608B14F8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4B14D0A1-6B79-4643-9101-5EAF8E24C122} = {9CAAF6BC-FD4D-467F-9062-D418C539727C}
+		{221ECEAD-5B74-4787-B3B8-F839A0480419} = {F556FE29-8AAB-48CC-8B80-3B0B8744A208}
+		{56BDBDD0-5DF9-452C-B6C0-E8C26BD74740} = {8903D868-FDEF-4B79-B4B2-8D9756AFBE24}
+		{93D9E489-3941-4BE7-BB58-FC608B14F8CB} = {4B14D0A1-6B79-4643-9101-5EAF8E24C122}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14CB6D7B-C355-482A-B77A-B2A022A34910}
+	EndGlobalSection
+EndGlobal

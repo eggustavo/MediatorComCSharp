@@ -1,0 +1,14 @@
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\bin\Debug\net5.0\NewComvert.Domain.deps.json
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\bin\Debug\net5.0\NewComvert.Domain.dll
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\bin\Debug\net5.0\ref\NewComvert.Domain.dll
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\bin\Debug\net5.0\NewComvert.Domain.pdb
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\obj\Debug\net5.0\NewComvert.Domain.Resources.MSG.resources
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\obj\Debug\net5.0\NewComvert.Domain.csproj.GenerateResource.cache
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\obj\Debug\net5.0\NewComvert.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\obj\Debug\net5.0\NewComvert.Domain.AssemblyInfoInputs.cache
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\obj\Debug\net5.0\NewComvert.Domain.AssemblyInfo.cs
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\obj\Debug\net5.0\NewComvert.Domain.csproj.CoreCompileInputs.cache
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\obj\Debug\net5.0\NewComvert.Domain.dll
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\obj\Debug\net5.0\ref\NewComvert.Domain.dll
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\obj\Debug\net5.0\NewComvert.Domain.pdb
+C:\Eduardo\Projetos\Ispac\NewComvertMediator\NewComvert\NewComvert.Domain\obj\Debug\net5.0\NewComvert.Domain.csprojAssemblyReference.cache
